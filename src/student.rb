@@ -1,5 +1,6 @@
+#!/usr/bin/env ruby
 
-# class to hold student data
+# Class to hold student data
 class Student
   def initialize(fname, lname, email, section, major1, major2=nil, minor1=nil, minor2=nil)
     @fname = fname
