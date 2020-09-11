@@ -3,8 +3,10 @@
 # require 'student.rb'
 require 'csv'
 
+@filepath
+
 # Gets the input csv file
-def get_file
+def read_file
   # Gets the file from the user
   puts "Enter csv file name to be read from 'data' folder:"
   file = gets.strip()
@@ -15,15 +17,28 @@ def get_file
 
   # Error handling for input file
   valid_file = File.file?(filepath)
-  file_check(valid_file)
-end
+  valid_csv = filepath.include? ".csv"
 
-# Checks whether or not a file is valid
-def file_check(valid_file)
-  unless valid_file
-    puts "Invalid file. Please try again!"
-    get_file
+  # Create CSV Table from file
+  if file_check(valid_file, valid_csv)
+    csv = CSV.parse(File.read(filepath), headers: true)
+    # puts csv[0]["first_name"]
   end
 end
 
-get_file
+# Checks whether or not a file is valid and a csv file
+def file_check(valid_file, valid_csv)
+  if valid_file
+    if valid_csv
+      return true
+    else
+      puts "Not a csv file. Please try again!"
+      read_file
+    end
+  else
+    puts "Invalid file. Please try again!"
+    read_file
+  end
+end
+
+read_file
