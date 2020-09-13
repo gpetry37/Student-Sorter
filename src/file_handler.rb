@@ -19,7 +19,9 @@ def read_file
   # Create CSV Table from file
   if file_check(valid_file, valid_csv)
     csv = CSV.parse(File.read(filepath), headers: true)
-    edit_csv(csv)
+    # edit_csv(csv)
+    puts "CSV table has been created."
+    return csv
   end
 end
 

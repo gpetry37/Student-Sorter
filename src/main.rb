@@ -2,11 +2,8 @@
 
 # require 'student.rb'
 require './file_handler'
-# require './class_edit'
+require './class_editor'
+require 'csv'
 
-def edit_csv(csv)
-  # puts csv[0]["email"]
-  puts csv.find {|row| row["email"] == "labbemx@dion.ne.jp"}
-end
-
-read_file
+csv = read_file
+q_modify(csv)
