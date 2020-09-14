@@ -29,22 +29,62 @@ end
 
 def add_csv(csv)
   puts "Adding a new student!"
-  
+  puts "Please enter the email of the student to be added."
+  add_email = gets.strip
+  result = csv.find {|row| row["email"] == add_email}
+  unless result == nil
+    puts "Student email already exists."
+    q_modify(csv)
+  else
+    puts "Please enter the first name of the student to be added."
+    add_fname = gets.strip
+    puts "Please enter the last name of the student to be added."
+    add_lname = gets.strip
+    puts "Please enter the class section of the student to be added."
+    add_section = gets.strip
+    puts "Please enter the first major of the student to be added."
+    add_major1 = gets.strip
+    puts "Please enter the second major of the student to be added. If none, hit enter."
+    add_major2 = gets.strip
+    if add_major2 == ""
+      add_major2 = nil
+    end
+    puts "Please enter the first minor of the student to be added. If none, hit enter."
+    add_minor1 = gets.strip
+    if add_minor1 == ""
+      add_minor1 = nil
+    end
+    puts "Please enter the second minor of the student to be added. If none, hit enter."
+    add_minor2 = gets.strip
+    if add_minor2 == ""
+      add_minor2 = nil
+    end
+
+    unless add_fname == "" or add_lname == "" or add_email == "" or add_section == "" or add_major1 == ""
+      headers = Array["first_name", "last_name", "email", "section", "major1", "major2", "minor1", "minor2"]
+      add_stu = Array[add_fname, add_lname, add_email, add_section, add_major1, add_major2, add_minor1, add_minor2]
+      csv << add_stu
+      puts "Student added!"
+      q_modify(csv)
+    else
+      puts "A required field was left blank! Ensure only specified fields are left blank."
+      add_csv(csv)
+    end
+  end
 end
 
 def del_csv(csv)
   puts "Please enter the email of the student to be removed."
   del_email = gets.strip
-  result = csv.find {|row| row["email"] == "del_email"}
+  result = csv.find {|row| row["email"] == del_email}
   if result == nil
     puts "Student email not found. Please try again."
     del_csv(csv)
   else
-    puts result
     puts "Are you sure you would like to remove this student? (y/n)"
     del_stu = gets.strip
     if del_stu == "Y" or del_stu == "y"
-      csv.delete(csv.find_index {|row| row["email"] == result})
+      csv.delete(csv.find_index {|row| row["email"] == del_email})
       puts "Student was removed."
       q_modify(csv)
     elsif del_stu == "N" or del_stu == "n"
