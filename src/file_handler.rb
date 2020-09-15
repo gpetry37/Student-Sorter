@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require './student'
 require 'csv'
 
 # Gets the input csv file
@@ -18,10 +19,9 @@ def read_file
 
   # Create CSV Table from file
   if file_check(valid_file, valid_csv)
-    csv = CSV.parse(File.read(filepath), headers: true)
-    # edit_csv(csv)
-    puts "CSV table has been created."
-    return csv
+    hash_creator(filepath)
+    puts "Student hash has been created."
+    return hash_creator(filepath)
   end
 end
 
@@ -40,3 +40,19 @@ def file_check(valid_file, valid_csv)
   end
 end
 
+# Takes CSV table and creates a Hash of arrays containing student objects for each section
+def hash_creator(filepath)
+  hash = Hash.new
+  CSV.foreach(filepath, headers: true) do |row|
+    student = Student.new(fname = row[0], lname = row[1], email = row[2], section = row[3], major1 = row[4], major2 = row[5], minor1 = row[6], minor2 = row[7])
+    if hash.has_key?(student.section)
+      array = hash[student.section]
+      array.push(student)
+      hash[student.section] = array
+    else
+      array = [student]
+      hash[student.section] = array
+    end
+  end
+  return hash
+end
