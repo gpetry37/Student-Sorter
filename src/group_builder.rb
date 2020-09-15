@@ -48,35 +48,48 @@ def build_group(csv, group_no, mm_sel)
       section = value.shuffle()
       until section.empty?
         group = [section.pop]
+        searching = true
         i = 0
         section.each do |student| 
-          if student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major2 == group[0].major1
+          if student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major2 == group[0].major1 and searching
             group.push(section.delete_at(i))
           end
-          i += 1
+          if group.length == group_no
+            searching = false
+          end
         end
-        if group.length < group_no
-          group.push group.push section.pop
-          group.push group.push section.pop
+        i = 1
+        while i < group_no
+          if group.length < group_no and !section.empty?
+            group.push section.pop if !section[0].nil?
+          end
+          i += 1
         end
         groups.push group
       end
     end
   when 2
-    csv.each do |_key, val|
+    csv.each do |_key, value|
       section = value.shuffle()
       until section.empty?
-        group = [section[0].pop]
+        group = [section.pop]
+        searching = true
         i = 0
         section.each do |student|
-          unless student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major2 == group[0].major1
-            group.push section[i].pop
+          unless student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major2 == group[0].major1 and searching
+            group.push(section.delete_at(i))
+          end
+          if group.length == group_no
+            searching = false
           end
           i += 1
         end
-        if group.length < group_no
-          group.push group.push section[0].pop
-          group.push group.push section[0].pop
+        i = 1
+        while i < group_no
+          if group.length < group_no and !section.empty?
+            group.push section.pop if !section[0].nil?
+          end
+          i += 1
         end
         groups.push group
       end
