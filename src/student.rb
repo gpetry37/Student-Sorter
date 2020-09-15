@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+# Gordon Petry
+# Assignment 1
+
 # Class to hold student data
 class Student
   attr_accessor :fname

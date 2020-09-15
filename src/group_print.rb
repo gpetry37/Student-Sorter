@@ -1,5 +1,8 @@
 #!/usr/bin/env Ruby
 
+# Gordon Petry
+# Assignment 1
+
 def list_groups(groups)
   i = 1
   groups.each do |array|

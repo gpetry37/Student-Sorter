@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+# Gordon Petry
+# Assignment 1
+
 require './student'
 require 'csv'
 

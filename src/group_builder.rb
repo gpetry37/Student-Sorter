@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+# Gordon Petry
+# Assignment 1
+
 def constraints(csv)
 
   # Group number specification

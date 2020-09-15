@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+# Gordon Petry
+# Assignment 1
+
 # Decision tree for deciding what information to modify, if any
 def q_modify(csv)
   puts "Would you like to modify information in the current table? (y/n)"
