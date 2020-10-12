@@ -1,0 +1,1148 @@
+Group 1:
+	Ephrem Jakobsson: Section 9, Major(s): Statistics , Minor(s): Physics 
+	El Deare: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Keri Brodley: Section 9, Major(s): Statistics , Minor(s): Political Science 
+	Hedda Lilloe: Section 9, Major(s): Psychology , Minor(s): Music 
+	Ola Lob: Section 9, Major(s): Statistics , Minor(s): Physics 
+	Everard James: Section 9, Major(s): Statistics , Minor(s): Physics 
+	Bennie Bidgod: Section 9, Major(s): Women & Gender Studies , Minor(s): Political Science 
+Group 2:
+	Ceil Mabbe: Section 9, Major(s): Statistics , Minor(s): Physics 
+	Lisette Tussaine: Section 9, Major(s): Philiosophy 
+	Sigismondo Roddan: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Vergil Nelle: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Joane Hamstead: Section 9, Major(s): Physics , Minor(s): Music Mathematics
+	Emilee Ungerecht: Section 9, Major(s): Computer Science 
+	Khalil Linskey: Section 9, Major(s): Statistics , Minor(s): Physics 
+Group 3:
+	Tarrah Mathelon: Section 9, Major(s): Psychology , Minor(s): Music 
+	Lynnea Vercruysse: Section 9, Major(s): Philiosophy 
+	Jeanelle Galgey: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Jania Pound: Section 9, Major(s): Music , Minor(s): Mathematics 
+	Melody Ivanchenkov: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Leontyne Abbe: Section 9, Major(s): Psychology 
+	Karney Kelwaybamber: Section 9, Major(s): Statistics , Minor(s): Physics 
+Group 4:
+	Bonnibelle Adams: Section 9, Major(s): Psychology 
+	Verine Cleary: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Rosella Knill: Section 9, Major(s): Statistics , Minor(s): Physics 
+	Terence Lage: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Emili Fransson: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Dianna Syms: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Quincy Monger: Section 9, Major(s): Statistics , Minor(s): Philiosophy 
+Group 5:
+	Waite Fidian: Section 9, Major(s): Physics , Minor(s): Music Mathematics
+	Kelbee Paynton: Section 9, Major(s): Psychology , Minor(s): Music 
+	Felic Cambridge: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Tobye Mariot: Section 9, Major(s): Psychology , Minor(s): Music 
+	Aubree Noirel: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Glyn Fiddymont: Section 9, Major(s): Physics , Minor(s): Music Mathematics
+	Anabella Wedgbrow: Section 9, Major(s): Philiosophy 
+Group 6:
+	Cob Brushfield: Section 9, Major(s): Statistics , Minor(s): Political Science 
+	Tami Mayze: Section 9, Major(s): Statistics 
+	Ottilie MacAllester: Section 9, Major(s): Statistics , Minor(s): Physics 
+	Juliana Kilbey: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Skell Akers: Section 9, Major(s): Women & Gender Studies 
+	Ludovico Mouth: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Rory Burehill: Section 9, Major(s): Psychology , Minor(s): Philiosophy 
+Group 7:
+	Raffarty Muccino: Section 9, Major(s): Statistics , Minor(s): Philiosophy 
+	Inge Besson: Section 9, Major(s): Women & Gender Studies , Minor(s): Political Science 
+	Udell Gething: Section 9, Major(s): Physics , Minor(s): Music Mathematics
+	Allegra Kamen: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Herold MacGorman: Section 9, Major(s): Statistics 
+	Manon Tippell: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Vickie MacGregor: Section 9, Major(s): Philiosophy , Minor(s): Music 
+Group 8:
+	Monro Lambird: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Karlen Tredget: Section 9, Major(s): Political Science , Minor(s): Philiosophy 
+	Rosette Old: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Fidole Merrydew: Section 9, Major(s): Statistics 
+	Claus Quenell: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Lib Liff: Section 9, Major(s): Psychology , Minor(s): Music 
+	Duff MacAvaddy: Section 9, Major(s): Psychology , Minor(s): Music 
+Group 9:
+	Forrester Spanton: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Branden Summersett: Section 9, Major(s): Political Science , Minor(s): Philiosophy 
+	Jorge Rodgier: Section 9, Major(s): Music , Minor(s): Mathematics 
+	Addy Niccolls: Section 9, Major(s): Music , Minor(s): Mathematics 
+	Fairleigh Esilmon: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Keane Walley: Section 9, Major(s): History 
+	Beryle Abbotts: Section 9, Major(s): Women & Gender Studies 
+Group 10:
+	Eleanora Boyack: Section 9, Major(s): Psychology 
+	Shelby Snugg: Section 9, Major(s): Sociology , Minor(s): Philiosophy 
+	Delilah Jacklin: Section 9, Major(s): Physics , Minor(s): Music Mathematics
+	Isidoro Sherrum: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Bryana Rizzi: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Brady Bidgod: Section 9, Major(s): Women & Gender Studies , Minor(s): Political Science 
+	Amelia MacTrustrie: Section 9, Major(s): Psychology , Minor(s): Music 
+Group 11:
+	Willi Damp: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Harp Botha: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Giordano Ashdown: Section 9, Major(s): Women & Gender Studies 
+	Mirabella Heaphy: Section 9, Major(s): Philiosophy , Minor(s): Music 
+	Somerset Benoiton: Section 9, Major(s): Women & Gender Studies , Minor(s): Political Science 
+	Louise Wisdish: Section 9, Major(s): Psychology 
+	Mackenzie Briddle: Section 9, Major(s): Psychology 
+Group 12:
+	Britte Bullus: Section 9, Major(s): Women & Gender Studies , Minor(s): Political Science 
+	Sibilla Bronot: Section 9, Major(s): Statistics , Minor(s): Political Science 
+	Charisse Mikalski: Section 9, Major(s): Statistics , Minor(s): Philiosophy 
+	Maurie Blouet: Section 9, Major(s): Women & Gender Studies , Minor(s): Political Science 
+	Titos Thecham: Section 9, Major(s): Political Science , Minor(s): Philiosophy 
+Group 13:
+	Audie Pickvance: Section 3, Major(s): English , Minor(s): Computer Science 
+	Alon Setterfield: Section 3, Major(s): Finance 
+	Kayne Wooton: Section 3, Major(s): Criminology , Minor(s): Computer Science 
+	Chick Tellwright: Section 3, Major(s): History 
+	Reinwald Eloi: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Wynne Shwalbe: Section 3, Major(s): History 
+	Harriot Pillifant: Section 3, Major(s): English , Minor(s): Computer Science 
+Group 14:
+	Georges Copcote: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Hugo Hardistry: Section 3, Major(s): English 
+	Wilek Bedome: Section 3, Major(s): Finance Economics
+	Kattie Stretton: Section 3, Major(s): Criminology 
+	Lesley Shaudfurth: Section 3, Major(s): Political Science 
+	Letizia Thornber: Section 3, Major(s): Health & Exercise Science 
+	Jerrilee Tummond: Section 3, Major(s): English , Minor(s): Computer Science 
+Group 15:
+	Goldarina Sill: Section 3, Major(s): Economics Criminology, Minor(s): Computer Science 
+	Basil Trusty: Section 3, Major(s): English , Minor(s): Computer Science 
+	Brendan Roddan: Section 3, Major(s): English , Minor(s): Computer Science 
+	Sephira Shilstone: Section 3, Major(s): Criminology 
+	Hyacinthe Tinto: Section 3, Major(s): Women & Gender Studies 
+	Dov Tandy: Section 3, Major(s): Computer Science 
+	Pepe Smallbone: Section 3, Major(s): Music 
+Group 16:
+	Stacee Paxman: Section 3, Major(s): English , Minor(s): Computer Science 
+	Dore Sleith: Section 3, Major(s): Health & Exercise Science 
+	Tobye Ablott: Section 3, Major(s): Criminology Computer Science
+	Evania Godspeede: Section 3, Major(s): English 
+	Rhonda Gaitskell: Section 3, Major(s): English 
+	Tabbitha Dooler: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Olenka Ganderton: Section 3, Major(s): Economics , Minor(s): Computer Science 
+Group 17:
+	Sayres Zanni: Section 3, Major(s): Computer Engineering Communication Studies
+	Byran Trustey: Section 3, Major(s): Criminology , Minor(s): Computer Science 
+	Ximenes St. Aubyn: Section 3, Major(s): English , Minor(s): Computer Science 
+	Mindy Arkow: Section 3, Major(s): Criminology Computer Science
+	Misha Silcocks: Section 3, Major(s): Mechanical Engineering 
+	Roxana Thayre: Section 3, Major(s): Mechanical Engineering 
+	Delmer Tolussi: Section 3, Major(s): Criminology , Minor(s): Computer Science 
+Group 18:
+	Berkly Brace: Section 3, Major(s): Finance Economics
+	Malory Alcorn: Section 3, Major(s): Criminology Computer Science
+	Temple Stayte: Section 3, Major(s): Physics 
+	Zelma Archdeckne: Section 3, Major(s): Economics Computer Science
+	Hilton Stieger: Section 3, Major(s): History 
+	Allegra Mainland: Section 3, Major(s): English Economics
+	Teddy Shipston: Section 3, Major(s): Music 
+Group 19:
+	Mora Synder: Section 3, Major(s): Physics 
+	Sly Swinford: Section 3, Major(s): Statistics 
+	Allyn Silberschatz: Section 3, Major(s): Computer Engineering 
+	Deloria Tremain: Section 3, Major(s): Criminology , Minor(s): Computer Science 
+	Aprilette Storcke: Section 3, Major(s): Interdisciplinary Studies 
+	Jeremy Iacovozzo: Section 3, Major(s): English 
+	Jayson Shieldon: Section 3, Major(s): English , Minor(s): Computer Science 
+Group 20:
+	Howey D'Almeida: Section 3, Major(s): English Criminology
+	Maurita Storres: Section 3, Major(s): History 
+	Daryn Glastonbury: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Britney Benning: Section 3, Major(s): English Criminology
+	Nomi Benjamin: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Sharlene Cason: Section 3, Major(s): Finance 
+	Sunny Vonderdell: Section 3, Major(s): English , Minor(s): Computer Science 
+Group 21:
+	Antoinette Buckie: Section 3, Major(s): English Criminology
+	Virgie Thirwell: Section 3, Major(s): Finance 
+	Brewster Calafato: Section 3, Major(s): English Criminology
+	Collie Symons: Section 3, Major(s): Criminology , Minor(s): Computer Science 
+	Fairleigh Smithen: Section 3, Major(s): Finance 
+	Whitney Shine: Section 3, Major(s): Chemistry 
+	Kingston Le Moucheux: Section 3, Major(s): English Economics
+Group 22:
+	Fedora Comiskey: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Clementius Stemp: Section 3, Major(s): Music 
+	Daloris Wisdish: Section 3, Major(s): Computer Engineering Communication Studies
+	Darda Garbutt: Section 3, Major(s): Economics , Minor(s): Computer Science 
+	Alley De Giorgio: Section 3, Major(s): English 
+	Duff Rennock: Section 3, Major(s): English , Minor(s): Computer Science 
+	Shurlock Agdahl: Section 3, Major(s): Criminology Computer Science
+Group 23:
+	Lucais Shackle: Section 3, Major(s): Electrical Engineering 
+	Ian Whitewood: Section 3, Major(s): Criminology , Minor(s): Computer Science 
+	Loise Aslott: Section 3, Major(s): Finance Economics
+	Kipp Austins: Section 3, Major(s): Economics Computer Science
+	Maurene Kinghorne: Section 3, Major(s): English Economics
+	Stormy Tebald: Section 3, Major(s): English , Minor(s): Computer Science 
+	Agata Sturm: Section 3, Major(s): Journalism 
+Group 24:
+	Molly Alsop: Section 3, Major(s): Criminology Computer Science
+	Cami Skin: Section 3, Major(s): Chemistry 
+	Charlton Sumner: Section 3, Major(s): Statistics 
+	Mac Blacksell: Section 3, Major(s): Finance Economics
+	Allx Candlish: Section 3, Major(s): Finance Economics
+	Allsun Thacke: Section 3, Major(s): Physics 
+	Hurley Sherebrook: Section 3, Major(s): Interdisciplinary Studies 
+Group 25:
+	Rosalind Stiell: Section 3, Major(s): History 
+	Justen Constance: Section 3, Major(s): English Criminology
+Group 26:
+	Hertha Flohard: Section 1, Major(s): Biology African American Studies
+	Lennard Pinel: Section 1, Major(s): Mechanical Engineering 
+	Fairlie Schistl: Section 1, Major(s): Biology Anthropology
+	Lydia Couser: Section 1, Major(s): Biology African American Studies
+	Freddi Brundale: Section 1, Major(s): Biology , Minor(s): Accounting 
+	Karmen Olifard: Section 1, Major(s): Mathematics 
+	Pearline Pavelin: Section 1, Major(s): Chemistry 
+Group 27:
+	Doug Hofton: Section 1, Major(s): Biology African American Studies
+	Tasia Plunkett: Section 1, Major(s): Biomedical Engineering 
+	Claudina Cursons: Section 1, Major(s): Art History , Minor(s): Women & Gender Studies Statistics
+	Tabbie Poulgreen: Section 1, Major(s): Physics 
+	Salmon Pointon: Section 1, Major(s): Finance 
+	Cayla Ortzen: Section 1, Major(s): Health & Exercise Science 
+	Donnie Micklewicz: Section 1, Major(s): Chemistry Biology
+Group 28:
+	Barclay Boast: Section 1, Major(s): Chemistry Art History
+	Flemming Keuneke: Section 1, Major(s): Chemistry Biology, Minor(s): Anthropology Women & Gender Studies
+	Justine Lowmass: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies Sociology
+	Alikee Mochar: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies Sociology
+	Judas Meron: Section 1, Major(s): Biology Anthropology
+	Justine Beneix: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies 
+	Karoline Haspineall: Section 1, Major(s): Biomedical Engineering Art History, Minor(s): African American Studies Women & Gender Studies
+Group 29:
+	Marion Phalip: Section 1, Major(s): Interdisciplinary Studies 
+	Zilvia Shambrook: Section 1, Major(s): Biology Anthropology
+	Skipton Phillis: Section 1, Major(s): Computer Engineering 
+	Ervin Orpyne: Section 1, Major(s): Mathematics 
+	Wakefield Pleager: Section 1, Major(s): Journalism 
+	Ram Perott: Section 1, Major(s): Biomedical Engineering 
+	Stanislas Pettendrich: Section 1, Major(s): Women & Gender Studies 
+Group 30:
+	Kenny Pinck: Section 1, Major(s): Criminology 
+	Worthington Buffy: Section 1, Major(s): Biomedical Engineering Anthropology, Minor(s): Accounting 
+	Lannie Hardie: Section 1, Major(s): Art History , Minor(s): Women & Gender Studies Statistics
+	Dugald Ion: Section 1, Major(s): Art History , Minor(s): Women & Gender Studies Statistics
+	Zahara Cartmer: Section 1, Major(s): Biology African American Studies, Minor(s): Accounting 
+	Phylys Bocken: Section 1, Major(s): Chemistry Art History
+	Stefano Mealiffe: Section 1, Major(s): Chemistry , Minor(s): Accounting 
+Group 31:
+	Karil Aisman: Section 1, Major(s): Biology , Minor(s): Accounting 
+	Martynne Sheals: Section 1, Major(s): Biology Anthropology
+	Welby Tampion: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies 
+	Clementius Curcher: Section 1, Major(s): Biomedical Engineering Anthropology, Minor(s): Accounting Women & Gender Studies
+	Rosaline Aron: Section 1, Major(s): Chemistry Art History
+	Issy Payfoot: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies Sociology
+	Morissa Tokley: Section 1, Major(s): Art History , Minor(s): Women & Gender Studies 
+Group 32:
+	Tuck Lipson: Section 1, Major(s): Chemistry , Minor(s): Anthropology Women & Gender Studies
+	Domeniga Garnson: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies 
+	Delainey Pietrzak: Section 1, Major(s): Computer Engineering 
+	Luigi Deam: Section 1, Major(s): Art History , Minor(s): Women & Gender Studies Statistics
+	Gina Hanaby: Section 1, Major(s): Art History , Minor(s): Women & Gender Studies Statistics
+	Aleda Leguay: Section 1, Major(s): Biomedical Engineering Art History, Minor(s): African American Studies Women & Gender Studies
+	Keene Goodfellowe: Section 1, Major(s): Biomedical Engineering Art History, Minor(s): African American Studies Women & Gender Studies
+Group 33:
+	Jone Bispo: Section 1, Major(s): Biology , Minor(s): Accounting 
+	Nestor Pennicard: Section 1, Major(s): Chemistry 
+	Emmey Reisen: Section 1, Major(s): Biology Anthropology
+	Flossie Dabel: Section 1, Major(s): Biology African American Studies
+	Karen Heading: Section 1, Major(s): Biomedical Engineering Art History, Minor(s): African American Studies Women & Gender Studies
+	Scotty Packham: Section 1, Major(s): African American Studies 
+	Giorgia Brayley: Section 1, Major(s): Chemistry Art History
+Group 34:
+	Raviv Pegrum: Section 1, Major(s): Political Science 
+	Justine Oloman: Section 1, Major(s): Mechanical Engineering 
+	Chad Utridge: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies 
+	Stanwood Kettow: Section 1, Major(s): Biomedical Engineering Art History, Minor(s): African American Studies Women & Gender Studies
+	Ewell Packman: Section 1, Major(s): Journalism 
+	Maynord Jenk: Section 1, Major(s): Biology African American Studies
+	Lanita MacCahey: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies Sociology
+Group 35:
+	Yule Betty: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies 
+	Gracia Poge: Section 1, Major(s): Chemistry 
+	Betsey Prawle: Section 1, Major(s): Electrical Engineering 
+	Monah Medland: Section 1, Major(s): Chemistry , Minor(s): Accounting 
+	Randi Pettie: Section 1, Major(s): Physics 
+	Justino Seamer: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies 
+	Angel Gillis: Section 1, Major(s): Biomedical Engineering Anthropology, Minor(s): Accounting Women & Gender Studies
+Group 36:
+	Rutger Cadigan: Section 1, Major(s): Chemistry Art History
+	Tamera Chisnall: Section 1, Major(s): Biology African American Studies
+	Eula Pellatt: Section 1, Major(s): Chemistry 
+	Chic Kilbourn: Section 1, Major(s): Anthropology , Minor(s): Women & Gender Studies Sociology
+	Elisabet Ollerearnshaw: Section 1, Major(s): Electrical Engineering 
+Group 37:
+	Chandal McVey: Section 4, Major(s): History , Minor(s): Finance 
+	Allie Giraldo: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Bendicty Harses: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Karin Geikie: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Gael Doutch: Section 4, Major(s): Journalism History
+	Agathe Cabera: Section 4, Major(s): Journalism , Minor(s): History 
+	Zulema Matzaitis: Section 4, Major(s): History , Minor(s): Finance 
+Group 38:
+	Birgit Calderwood: Section 4, Major(s): Journalism , Minor(s): History 
+	Darsie Hardcastle: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Powell Tratton: Section 4, Major(s): Electrical Engineering 
+	Hans Halsall: Section 4, Major(s): History Finance, Minor(s): Criminology 
+	Octavius Lamplugh: Section 4, Major(s): History , Minor(s): Criminology 
+	Meade Bredgeland: Section 4, Major(s): Journalism , Minor(s): History 
+	Osbert Willerstone: Section 4, Major(s): History Health & Exercise Science
+Group 39:
+	Frants Peaurt: Section 4, Major(s): History Finance
+	Beatrix Algate: Section 4, Major(s): Journalism History
+	Morena Offord: Section 4, Major(s): History Finance
+	Roselin Mulholland: Section 4, Major(s): English Economics
+	Jerad Gettings: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Michaela Wandtke: Section 4, Major(s): History Health & Exercise Science
+	Alfred Dorrity: Section 4, Major(s): Journalism History
+Group 40:
+	Hall MacIver: Section 4, Major(s): History , Minor(s): English 
+	Alvera Tolcharde: Section 4, Major(s): Computer Science 
+	Eamon Ondrich: Section 4, Major(s): History Finance
+	Willi Larman: Section 4, Major(s): History , Minor(s): Criminology 
+	Helsa Iacomi: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Salim Aiston: Section 4, Major(s): Journalism History
+	Ethe Todarello: Section 4, Major(s): Physics 
+Group 41:
+	Victoir Chrichton: Section 4, Major(s): Journalism History
+	Glennis Winckles: Section 4, Major(s): English Economics
+	Eddy Dransfield: Section 4, Major(s): History Finance, Minor(s): Criminology 
+	Abram Chessman: Section 4, Major(s): Journalism History
+	Jacobo Frise: Section 4, Major(s): History Finance, Minor(s): Criminology 
+	Karrah Brigstock: Section 4, Major(s): Journalism , Minor(s): History 
+	Hy Castellaccio: Section 4, Major(s): Journalism History
+Group 42:
+	Averil Loomes: Section 4, Major(s): History , Minor(s): English 
+	Biddie Gladtbach: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Dorthy Hounson: Section 4, Major(s): History Finance, Minor(s): Criminology 
+	Alan Mico: Section 4, Major(s): History , Minor(s): Finance 
+	Allister Lilywhite: Section 4, Major(s): History , Minor(s): Criminology 
+	Ellen Duffin: Section 4, Major(s): Journalism History
+	Enrico Gellion: Section 4, Major(s): Journalism Interactive Mulitmedia
+Group 43:
+	Marci Lundberg: Section 4, Major(s): History , Minor(s): English 
+	Shaylynn Murden: Section 4, Major(s): History , Minor(s): Finance 
+	Percival Giddens: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Anderson Entreis: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Winne Balderstone: Section 4, Major(s): Journalism , Minor(s): History 
+	Estella Tremblet: Section 4, Major(s): Women & Gender Studies 
+	Kayle Jackett: Section 4, Major(s): History , Minor(s): Criminology 
+Group 44:
+	Kasper Tour: Section 4, Major(s): Statistics 
+	Ulises Tresise: Section 4, Major(s): History 
+	Henrik Nevison: Section 4, Major(s): History Finance
+	Reinhold Baugham: Section 4, Major(s): Journalism , Minor(s): History 
+	Ludovico Kaliszewski: Section 4, Major(s): History , Minor(s): Criminology 
+	Jude Triggs: Section 4, Major(s): Statistics 
+	Inez Caris: Section 4, Major(s): Journalism , Minor(s): History 
+Group 45:
+	Petronilla Younger: Section 4, Major(s): English Economics
+	Pam Augie: Section 4, Major(s): Journalism , Minor(s): History 
+	Drew Towhey: Section 4, Major(s): Physics 
+	Tonie Alstead: Section 4, Major(s): Journalism , Minor(s): History 
+	Asher Olyfant: Section 4, Major(s): English Economics
+	Wendi Zapatero: Section 4, Major(s): History Health & Exercise Science
+	Shurwood Trownson: Section 4, Major(s): Statistics 
+Group 46:
+	Pablo Hoppner: Section 4, Major(s): Journalism Interactive Mulitmedia
+	Ellen Marchiso: Section 4, Major(s): History , Minor(s): Finance 
+	Eddie Eilles: Section 4, Major(s): Journalism History
+	Hazel Gibson: Section 4, Major(s): History Finance, Minor(s): Criminology 
+	Violet Braker: Section 4, Major(s): Journalism , Minor(s): History 
+	Lefty Nezey: Section 4, Major(s): History Finance
+	Thornie Keune: Section 4, Major(s): History , Minor(s): Criminology 
+Group 47:
+	Dick Shearmur: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Rhiamon Rozea: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Statistics 
+	Simone Cockle: Section 5, Major(s): Music Mathematics, Minor(s): Journalism 
+	Neils Barthel: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Norby Neaverson: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Ogdon Wilbud: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+	Sanson Marrington: Section 5, Major(s): Accounting Women & Gender Studies, Minor(s): Statistics 
+Group 48:
+	Jaquelyn Espadater: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Melantha Baldinotti: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Statistics 
+	Valry Soughton: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Baron Paulton: Section 5, Major(s): Communication Studies , Minor(s): Biology Accounting
+	Silva Skryne: Section 5, Major(s): Biology , Minor(s): Accounting 
+	Saunderson Spray: Section 5, Major(s): African American Studies Women & Gender Studies
+	Herman Barsham: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Statistics 
+Group 49:
+	Yardley Revely: Section 5, Major(s): Sociology Psychology
+	Urbain Miell: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Ameline Blakeston: Section 5, Major(s): Music Mathematics, Minor(s): Journalism 
+	Mead Rumbelow: Section 5, Major(s): Sociology Psychology, Minor(s): Philiosophy 
+	Madge Wapple: Section 5, Major(s): African American Studies Women & Gender Studies
+	Gabie Grissett: Section 5, Major(s): Political Science Philiosophy
+	Mercy Delgaty: Section 5, Major(s): Music Mathematics
+Group 50:
+	Pascal Gianni: Section 5, Major(s): Women & Gender Studies Statistics
+	Dede Chanders: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Joli Chesney: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Ilene Swin: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Mikey Rowley: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Reuben Trubshawe: Section 5, Major(s): History 
+	Gonzales Jordin: Section 5, Major(s): Music Mathematics
+Group 51:
+	Birdie Rois: Section 5, Major(s): Communication Studies , Minor(s): Biology Accounting
+	Kittie Vawton: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+	Garwood Farquharson: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Fran Aspinall: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Statistics 
+	Sheelagh Wickersley: Section 5, Major(s): Sociology 
+	Rollin Blackborow: Section 5, Major(s): Biomedical Engineering , Minor(s): Accounting 
+	Saidee Zamora: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+Group 52:
+	Brnaba Kenningley: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Mikol Stanyland: Section 5, Major(s): Biology , Minor(s): Accounting 
+	Barrie Yielding: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Clarey Kerans: Section 5, Major(s): Music Mathematics, Minor(s): Interdisciplinary Studies 
+	Ninette Zecchinelli: Section 5, Major(s): Computer Science 
+	Catina Aistrop: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Marrilee Nutley: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+Group 53:
+	Zoe Simeons: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Lonna Hillen: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Abbey Denerley: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Bren Samarth: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Cyndia Giraudy: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Rogerio Coppeard: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Franciska Sycamore: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+Group 54:
+	Ara Breyt: Section 5, Major(s): Biomedical Engineering , Minor(s): Accounting 
+	Travis Leonard: Section 5, Major(s): Music Mathematics, Minor(s): Interdisciplinary Studies 
+	Waneta Cammiemile: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): African American Studies 
+	Orren Pickup: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Dare Clementi: Section 5, Major(s): Music Mathematics, Minor(s): Journalism 
+	Arlen Traice: Section 5, Major(s): African American Studies Women & Gender Studies
+	Garnet Lorant: Section 5, Major(s): Accounting Women & Gender Studies, Minor(s): Statistics 
+Group 55:
+	Kellsie Kelling: Section 5, Major(s): Music Mathematics
+	Tonye Bunn: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Aubrey Sarten: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Bonita MacRanald: Section 5, Major(s): Political Science Philiosophy
+	Georgianne De Anesy: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Sociology 
+	Winfred Fildes: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Blake Goghin: Section 5, Major(s): Sociology Political Science
+Group 56:
+	Cherri Pflieger: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Ram Le Noury: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+	Gabriele Peacham: Section 5, Major(s): Sociology Psychology
+	Delly Byre: Section 5, Major(s): Music Mathematics, Minor(s): Journalism 
+	Adelle Gras: Section 5, Major(s): Women & Gender Studies Statistics, Minor(s): Psychology 
+	Roarke St Ledger: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Karoly Yemm: Section 5, Major(s): Biology , Minor(s): Accounting 
+Group 57:
+	Ivett Kopman: Section 5, Major(s): Political Science Philiosophy
+	Mellisent Jagson: Section 5, Major(s): Music Mathematics
+	Eduard Renyard: Section 5, Major(s): Communication Studies , Minor(s): Biology Accounting
+	Nikolaus Silkston: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Loreen Brockhurst: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Margarita Crosfeld: Section 5, Major(s): Music Mathematics
+	Kippie Kail: Section 5, Major(s): Biology , Minor(s): Accounting 
+Group 58:
+	Roanna Ceney: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Sociology 
+	Joelle Huffey: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Erick Dykas: Section 5, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Glynnis Gregoire: Section 5, Major(s): Sociology Political Science
+	Ermentrude Vinck: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Westbrooke Roseman: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Alexis Baunton: Section 5, Major(s): African American Studies Women & Gender Studies, Minor(s): Statistics 
+Group 59:
+	Juline MacAlees: Section 5, Major(s): Communication Studies , Minor(s): Biology Accounting
+	Danette Pirrey: Section 5, Major(s): Sociology Psychology
+	Tally Franzonetti: Section 5, Major(s): Women & Gender Studies Statistics
+	Addy Worsall: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Cristian Geddis: Section 5, Major(s): Women & Gender Studies Statistics
+	Hartwell Seldon: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+	Cam Lamacraft: Section 5, Major(s): Music Mathematics, Minor(s): Interdisciplinary Studies 
+Group 60:
+	Ardys Sirmon: Section 5, Major(s): Journalism Interdisciplinary Studies
+	Winona Gossage: Section 5, Major(s): Music Mathematics
+	Murry Massinger: Section 5, Major(s): Music Mathematics, Minor(s): Interdisciplinary Studies 
+	Leonie Riping: Section 5, Major(s): Communication Studies , Minor(s): Biology Accounting
+	Ariana Zelake: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+	Ursulina Geldart: Section 5, Major(s): Chemistry Women & Gender Studies, Minor(s): Anthropology 
+	Eartha Vint: Section 5, Major(s): Finance 
+Group 61:
+	Avis Skokoe: Section 5, Major(s): Biology , Minor(s): Accounting 
+	Tades Goudie: Section 5, Major(s): Sociology Political Science
+	Brynne Bazek: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Rachelle Mulhill: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+	Hollyanne Bortoluzzi: Section 5, Major(s): Biomedical Engineering , Minor(s): Accounting 
+	Gregoor Ingree: Section 5, Major(s): Political Science Philiosophy
+	Garner Trustrie: Section 5, Major(s): Accounting Psychology, Minor(s): Statistics 
+Group 62:
+	Billie Presswell: Section 5, Major(s): Sociology Psychology
+	Morris Conkling: Section 5, Major(s): Accounting Statistics, Minor(s): Psychology 
+	Selene Witard: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+	Tann Sleet: Section 5, Major(s): Biology , Minor(s): Accounting 
+	Schuyler Wardlaw: Section 5, Major(s): Communication Studies , Minor(s): Biology 
+Group 63:
+	Cello Faulds: Section 8, Major(s): Mathematics , Minor(s): Interdisciplinary Studies 
+	Stephen Fulbrook: Section 8, Major(s): Mathematics , Minor(s): Interdisciplinary Studies 
+	Jehu Dugan: Section 8, Major(s): Mathematics 
+	Ariadne Angood: Section 8, Major(s): Mechanical Engineering 
+	Fraser Tubritt: Section 8, Major(s): Journalism 
+	Carolin Tankus: Section 8, Major(s): Music 
+	Anthia Traviss: Section 8, Major(s): Music 
+Group 64:
+	Ulises Winston: Section 8, Major(s): Electrical Engineering 
+	Lilian Bilson: Section 8, Major(s): Mechanical Engineering 
+	Ware Winthrop: Section 8, Major(s): Mathematics , Minor(s): Journalism 
+	Derwin Slaney: Section 8, Major(s): Mathematics 
+	Erroll Benton: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia 
+	Bernelle Grishmanov: Section 8, Major(s): Mathematics , Minor(s): Interdisciplinary Studies 
+	Innis Genicke: Section 8, Major(s): Mathematics , Minor(s): Interdisciplinary Studies 
+Group 65:
+	Tabby Allabarton: Section 8, Major(s): Nursing , Minor(s): Journalism 
+	Daphna Arnow: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia Health & Exercise Science
+	Magnum Becken: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia 
+	Shirlee Ullett: Section 8, Major(s): Music 
+	Stephanus Greer: Section 8, Major(s): Mathematics , Minor(s): Interdisciplinary Studies 
+	Burton Clausner: Section 8, Major(s): Mathematics 
+	Consuelo Vardy: Section 8, Major(s): Mathematics , Minor(s): Journalism 
+Group 66:
+	Fairlie Brudenell: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia 
+	Nicholas Tuison: Section 8, Major(s): Mathematics 
+	Caesar Aldwich: Section 8, Major(s): Nursing , Minor(s): Journalism 
+	Kaitlynn Zupone: Section 8, Major(s): Statistics 
+	Gayle Bartolomucci: Section 8, Major(s): Nursing 
+	Marieann Yukhnov: Section 8, Major(s): Mathematics , Minor(s): Journalism 
+	Ossie Walisiak: Section 8, Major(s): Statistics 
+Group 67:
+	Gardy Bembridge: Section 8, Major(s): Mechanical Engineering 
+	Rania Wilbraham: Section 8, Major(s): Journalism 
+	Taddeo Tumayan: Section 8, Major(s): Chemistry 
+	Town Watson-Brown: Section 8, Major(s): Mathematics , Minor(s): Journalism 
+	Clemmie Dyte: Section 8, Major(s): Mathematics 
+	Saree Buncom: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia 
+	Cassie Zorener: Section 8, Major(s): Journalism , Minor(s): Health & Exercise Science 
+Group 68:
+	Zsa zsa Wentworth: Section 8, Major(s): Music , Minor(s): Journalism 
+	Davina Wilfling: Section 8, Major(s): Journalism , Minor(s): Health & Exercise Science 
+	Peggi Wolfer: Section 8, Major(s): Music , Minor(s): Journalism 
+	Norrie Alcorn: Section 8, Major(s): Nursing , Minor(s): Journalism 
+	Dew Hassewell: Section 8, Major(s): Mathematics , Minor(s): Interdisciplinary Studies 
+	Berte Barbara: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia Health & Exercise Science
+	Darcy Wishart: Section 8, Major(s): Music , Minor(s): Journalism 
+Group 69:
+	Nev Beavis: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia 
+	Loraine Busch: Section 8, Major(s): Mathematics , Minor(s): Health & Exercise Science 
+	Artair Cicetti: Section 8, Major(s): Mathematics , Minor(s): Health & Exercise Science 
+	Aindrea Boyan: Section 8, Major(s): Mathematics , Minor(s): Interactive Mulitmedia 
+Group 70:
+	Demeter Nibley: Section 7, Major(s): Interactive Mulitmedia 
+	Ethelin Carrabott: Section 7, Major(s): Electrical Engineering , Minor(s): Computer Science 
+	Gilbertine Chidgey: Section 7, Major(s): History , Minor(s): Criminology 
+	Ives Cyson: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Sol Lorenc: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Lacie Milton: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Bernadette Franzewitch: Section 7, Major(s): Interdisciplinary Studies 
+Group 71:
+	Jarrad Christou: Section 7, Major(s): History , Minor(s): Criminology 
+	Marty Coldbath: Section 7, Major(s): Interdisciplinary Studies 
+	Chandler Yeo: Section 7, Major(s): Interactive Mulitmedia 
+	Kerry Morrissey: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Kanya Jordin: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Kaleb Biggar: Section 7, Major(s): Interdisciplinary Studies , Minor(s): English 
+	Samuele Torrecilla: Section 7, Major(s): Interactive Mulitmedia 
+Group 72:
+	Kyrstin Chanson: Section 7, Major(s): History , Minor(s): Criminology 
+	Cherie Skirvane: Section 7, Major(s): Interactive Mulitmedia 
+	Yancy Ellsom: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Tildie Odegaard: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Cherilynn Torbard: Section 7, Major(s): Economics 
+	Veradis Egle: Section 7, Major(s): Interdisciplinary Studies 
+	Olive Teresa: Section 7, Major(s): Interactive Mulitmedia 
+Group 73:
+	Aida Gomersall: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Aidan Burdoun: Section 7, Major(s): Interdisciplinary Studies 
+	Zedekiah Filby: Section 7, Major(s): Finance 
+	Carmon Masurel: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Bartolomeo Goddert.sf: Section 7, Major(s): Interdisciplinary Studies , Minor(s): Finance 
+	Sarina Domokos: Section 7, Major(s): History , Minor(s): Criminology 
+	Bryon Seven: Section 7, Major(s): Economics , Minor(s): Computer Science 
+Group 74:
+	Shelly Stodit: Section 7, Major(s): Economics 
+	Feodor Easum: Section 7, Major(s): Finance 
+	Tabbi Terzi: Section 7, Major(s): Economics 
+	Dela Thying: Section 7, Major(s): Journalism , Minor(s): Health & Exercise Science 
+	Courtenay Fann: Section 7, Major(s): Finance 
+	Claiborn Di Biasi: Section 7, Major(s): Interdisciplinary Studies 
+	Reynolds Dominici: Section 7, Major(s): Finance 
+Group 75:
+	Tony Knowlden: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Karia Dingsdale: Section 7, Major(s): History , Minor(s): Criminology 
+	Marv Wimmers: Section 7, Major(s): Computer Science 
+	Letta Ciccoloi: Section 7, Major(s): History , Minor(s): Criminology 
+	Leonore Dunridge: Section 7, Major(s): Electrical Engineering 
+	Jolyn L'Hommeau: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Rebbecca Stryde: Section 7, Major(s): Interactive Mulitmedia 
+Group 76:
+	Cassaundra Novkovic: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Adlai Navein: Section 7, Major(s): Interactive Mulitmedia 
+	Susanetta Conyer: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Geoffry Heaford: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Dacy Roselli: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Sharl Corneille: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Alexei Dannell: Section 7, Major(s): Finance 
+Group 77:
+	Stanford Cockerill: Section 7, Major(s): History , Minor(s): Criminology 
+	Shandy Whetnell: Section 7, Major(s): Economics 
+	Silvanus Cockerill: Section 7, Major(s): History , Minor(s): Criminology 
+	Carolyne Zorzoni: Section 7, Major(s): Women & Gender Studies 
+	Jesselyn Aleavy: Section 7, Major(s): History 
+	Catherina Reuss: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Greer Laity: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+Group 78:
+	Salomi Stokell: Section 7, Major(s): Economics 
+	Leola Franchyonok: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Lynnell Carik: Section 7, Major(s): History , Minor(s): Criminology 
+	Branden Tschirasche: Section 7, Major(s): Computer Science 
+	Anni Grigoire: Section 7, Major(s): Interdisciplinary Studies , Minor(s): Finance 
+	Betti Trengrouse: Section 7, Major(s): Journalism , Minor(s): Health & Exercise Science 
+	Rance Gallo: Section 7, Major(s): Finance , Minor(s): Computer Science 
+Group 79:
+	Toma Pendlebery: Section 7, Major(s): Economics , Minor(s): Computer Science 
+	Kilian Cristou: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Dill Hardey: Section 7, Major(s): Interactive Mulitmedia , Minor(s): English 
+	Collette Drinkeld: Section 7, Major(s): Finance 
+	Grayce Talbot: Section 7, Major(s): Journalism , Minor(s): Health & Exercise Science 
+	Devina Gringley: Section 7, Major(s): Interdisciplinary Studies , Minor(s): Finance 
+	Emlyn Sirett: Section 7, Major(s): Economics , Minor(s): Computer Science 
+Group 80:
+	Natal Chue: Section 7, Major(s): Finance , Minor(s): Computer Science 
+	Caron Antonetti: Section 7, Major(s): History 
+	Blinny Wadlow: Section 7, Major(s): Finance 
+Group 81:
+	Ricardo Caldaro: Section 11, Major(s): Nursing 
+	Neville Wollacott: Section 11, Major(s): Anthropology , Minor(s): Statistics 
+	Olva Lazonby: Section 11, Major(s): Biology 
+	Natalina Burberow: Section 11, Major(s): Physics 
+	Stanfield Paul: Section 11, Major(s): Art History , Minor(s): Women & Gender Studies 
+	Javier Mackley: Section 11, Major(s): Women & Gender Studies , Minor(s): Sociology 
+	Wildon Lindenstrauss: Section 11, Major(s): Biology 
+Group 82:
+	Siward Kleingrub: Section 11, Major(s): Art History , Minor(s): Women & Gender Studies Statistics
+	Chrissie Birney: Section 11, Major(s): Philiosophy 
+	Angel Barrable: Section 11, Major(s): Statistics 
+	Jordain Alldis: Section 11, Major(s): Philiosophy 
+	Jerrine Blunsum: Section 11, Major(s): Health & Exercise Science 
+	Kellen MacAirt: Section 11, Major(s): Women & Gender Studies , Minor(s): Sociology 
+	Gerianne Peatheyjohns: Section 11, Major(s): Anthropology , Minor(s): Sociology 
+Group 83:
+	Jaquenetta Lesek: Section 11, Major(s): Biology 
+	Lance Blaksley: Section 11, Major(s): Art History , Minor(s): Statistics 
+	Pamella Merrett: Section 11, Major(s): Art History , Minor(s): Women & Gender Studies 
+	Bobine Hotton: Section 11, Major(s): Women & Gender Studies , Minor(s): Sociology 
+	Ced Bortoli: Section 11, Major(s): Statistics 
+	Nelie Andreoletti: Section 11, Major(s): Philiosophy 
+	Thoma Berrecloth: Section 11, Major(s): Music 
+Group 84:
+	Shaine Butterfield: Section 11, Major(s): Mechanical Engineering 
+	Mack Weatherill: Section 11, Major(s): Mechanical Engineering 
+	Marcy Boldison: Section 11, Major(s): Physics 
+	Rina Bourthouloume: Section 11, Major(s): Communication Studies 
+	Geoff Boncore: Section 11, Major(s): Criminology 
+	Wendy Arrault: Section 11, Major(s): Statistics 
+	Lorelei Antunez: Section 11, Major(s): Political Science 
+Group 85:
+	Karel Antczak: Section 11, Major(s): Music 
+	Umberto Bellhouse: Section 11, Major(s): English 
+	Carma Antosik: Section 11, Major(s): Political Science 
+	Mordy Kordovani: Section 11, Major(s): Biology 
+	Mirabel Bendall: Section 11, Major(s): Philiosophy 
+	Margi Boog: Section 11, Major(s): Criminology 
+	Sarajane Bullerwell: Section 11, Major(s): Physics 
+Group 86:
+	Abba Saffer: Section 11, Major(s): Anthropology , Minor(s): Sociology 
+	Inesita Brixey: Section 11, Major(s): Nursing 
+	Harmon Matiasek: Section 11, Major(s): Biology , Minor(s): Women & Gender Studies 
+	Sara Broomhall: Section 11, Major(s): Mechanical Engineering 
+	Leanora Maddaford: Section 11, Major(s): Biology , Minor(s): Statistics 
+	Kariotta Christoffersen: Section 11, Major(s): Art History , Minor(s): Statistics 
+	Harrietta Andreasson: Section 11, Major(s): Interactive Mulitmedia 
+Group 87:
+	Rodd Attkins: Section 11, Major(s): Criminology 
+	Jorie Penburton: Section 11, Major(s): Anthropology , Minor(s): Sociology 
+	Dewain Bramont: Section 11, Major(s): Criminology 
+	Cornelia Tindle: Section 11, Major(s): Art History , Minor(s): Women & Gender Studies 
+	Haslett Bruckenthal: Section 11, Major(s): Health & Exercise Science 
+	Evin Beiderbeck: Section 11, Major(s): Philiosophy 
+	Archibold Broschke: Section 11, Major(s): Criminology 
+Group 88:
+	Connor Barnwell: Section 11, Major(s): Physics 
+	Vonnie Bett: Section 11, Major(s): Philiosophy 
+	Kipp Reinhard: Section 11, Major(s): Art History , Minor(s): Women & Gender Studies 
+	Darice Pyburn: Section 11, Major(s): Art History , Minor(s): Women & Gender Studies 
+	Niven Birks: Section 11, Major(s): Criminology 
+	Genna Bernardet: Section 11, Major(s): Criminology 
+	Marlo MacCorley: Section 11, Major(s): Biology , Minor(s): Statistics 
+Group 89:
+	Carly Woolhouse: Section 11, Major(s): Sociology 
+	Bart Vallentin: Section 11, Major(s): Mechanical Engineering 
+	Halie Crossley: Section 11, Major(s): Art History 
+	Guillema Byllam: Section 11, Major(s): Health & Exercise Science 
+	Kissiah Burleigh: Section 11, Major(s): Physics 
+	Vic Calam: Section 11, Major(s): Computer Science 
+	Martita Malloy: Section 11, Major(s): Women & Gender Studies , Minor(s): Sociology 
+Group 90:
+	Carolyn Bertson: Section 11, Major(s): Political Science 
+	Judie Corde: Section 11, Major(s): Art History , Minor(s): Statistics 
+	Chet Pomery: Section 11, Major(s): Anthropology , Minor(s): Sociology 
+	Xenia Lowther: Section 11, Major(s): Biology , Minor(s): Statistics 
+	Charmian Barden: Section 11, Major(s): Sociology 
+	Gale Broxis: Section 11, Major(s): Criminology 
+Group 91:
+	Ronni Sellars: Section 2, Major(s): Statistics 
+	Alphard Scarlett: Section 2, Major(s): Women & Gender Studies 
+	Debora Barten: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Jerome Radclyffe: Section 2, Major(s): Computer Engineering 
+	Cassie Savage: Section 2, Major(s): Music 
+	Melania Rosone: Section 2, Major(s): Physics 
+	Shem Wegenen: Section 2, Major(s): Computer Engineering Communication Studies
+Group 92:
+	Murry Walcot: Section 2, Major(s): Computer Engineering Communication Studies
+	Ainslee Gravet: Section 2, Major(s): Criminology Communication Studies
+	Onfroi Hawkswell: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): Anthropology 
+	Nicolai Avraham: Section 2, Major(s): Computer Science Communication Studies
+	Colas Theis: Section 2, Major(s): Computer Engineering Communication Studies
+	Charlotte Bernaciak: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Henriette Dovydenas: Section 2, Major(s): Computer Engineering Chemistry
+Group 93:
+	Doria Deeming: Section 2, Major(s): Computer Engineering Chemistry
+	Hephzibah Swayland: Section 2, Major(s): Computer Engineering Chemistry
+	Atalanta Ramsey: Section 2, Major(s): Interdisciplinary Studies 
+	Natty Rycroft: Section 2, Major(s): Mathematics 
+	Berne Sorby: Section 2, Major(s): Computer Engineering Chemistry
+	Katusha Scotland: Section 2, Major(s): History 
+	Cam Barttrum: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+Group 94:
+	Joeann Riggoll: Section 2, Major(s): Mechanical Engineering 
+	Ricardo Sabine: Section 2, Major(s): Biomedical Engineering 
+	Wilhelm Aronsohn: Section 2, Major(s): Computer Science Communication Studies
+	Norene Rosenbaum: Section 2, Major(s): Criminology 
+	Erna Bridgen: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Deedee Rikard: Section 2, Major(s): Health & Exercise Science 
+	Shepard Reeme: Section 2, Major(s): Mathematics 
+Group 95:
+	Angeli Trorey: Section 2, Major(s): Computer Engineering Communication Studies
+	Brinn Salmon: Section 2, Major(s): History 
+	Flin Wantling: Section 2, Major(s): Computer Engineering Communication Studies
+	Corrie Taffrey: Section 2, Major(s): Computer Engineering Chemistry
+	Pedro Baldelli: Section 2, Major(s): Computer Science Communication Studies
+	Charlotta Alliband: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): Biology 
+	Hillier Dan: Section 2, Major(s): Computer Engineering Chemistry
+Group 96:
+	Lizzie Ryhorovich: Section 2, Major(s): Physics 
+	Brittni Rodie: Section 2, Major(s): Finance 
+	Gorden Renzullo: Section 2, Major(s): Biomedical Engineering 
+	Crawford Riggs: Section 2, Major(s): History 
+	Damiano Presho: Section 2, Major(s): Mechanical Engineering 
+	Aryn Breens: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): Biology 
+	Erv Queste: Section 2, Major(s): Political Science 
+Group 97:
+	Bartie Bert: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Vachel Benedit: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Kean Ratchford: Section 2, Major(s): Mathematics 
+	Gale Brinkler: Section 2, Major(s): Computer Engineering Chemistry
+	Celka Blackaller: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): Biology 
+	Abagail Gricewood: Section 2, Major(s): Criminology Communication Studies
+	Nari Heigl: Section 2, Major(s): Criminology Communication Studies
+Group 98:
+	Lynett Sackett: Section 2, Major(s): Chemistry 
+	Donnie Lathy: Section 2, Major(s): Criminology Communication Studies
+	Loren Rankin: Section 2, Major(s): History 
+	Raina Caffrey: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Meagan Preddle: Section 2, Major(s): Criminology 
+	Jamil Salisbury: Section 2, Major(s): Criminology 
+	Erny Gatiss: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): African American Studies 
+Group 99:
+	Tarra Rosas: Section 2, Major(s): Mathematics 
+	Kerrill Kas: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): Anthropology 
+	Emma Ridout: Section 2, Major(s): Physics 
+	Angelia Jays: Section 2, Major(s): Computer Engineering Chemistry, Minor(s): Anthropology 
+	Abie Golsworthy: Section 2, Major(s): Criminology Communication Studies
+	Eleanor Shirrell: Section 2, Major(s): Chemistry Biology, Minor(s): Art History 
+	Lissie Borg: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+Group 100:
+	Chrystal Skakunas: Section 2, Major(s): Chemistry Biology, Minor(s): Art History 
+	Marylin Buncombe: Section 2, Major(s): Computer Science Communication Studies, Minor(s): Art History 
+	Quinta Ragles: Section 2, Major(s): Health & Exercise Science 
+	Renelle Ratt: Section 2, Major(s): Mathematics 
+	Carla Dunkinson: Section 2, Major(s): Computer Engineering Chemistry
+Group 101:
+	Tod Ganforthe: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Etheline Parlott: Section 6, Major(s): Computer Science 
+	Therese Stephenson: Section 6, Major(s): Computer Science , Minor(s): Communication Studies 
+	Marjory Nesbit: Section 6, Major(s): Computer Science 
+	Iver Popescu: Section 6, Major(s): Computer Science 
+	Aindrea Norbury: Section 6, Major(s): Computer Science 
+	Jordon Hawker: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+Group 102:
+	Mikkel Miskin: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Ginny Laxon: Section 6, Major(s): Computer Science 
+	Marcela Langworthy: Section 6, Major(s): Computer Science , Minor(s): Communication Studies 
+	Lothario Lindstrom: Section 6, Major(s): Computer Science 
+	Tess Gard: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Jack Logue: Section 6, Major(s): Computer Science 
+	Natty Mottershead: Section 6, Major(s): Computer Science 
+Group 103:
+	Tully Duchasteau: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Rowland Mosey: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Sollie Kopec: Section 6, Major(s): Computer Science , Minor(s): Communication Studies 
+	Casper Shirtcliffe: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Fionna McMahon: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Bartholomeo Rief: Section 6, Major(s): Computer Science 
+	Worth Lewisham: Section 6, Major(s): Computer Science 
+Group 104:
+	Chiarra Swyer-Sexey: Section 6, Major(s): Computer Science , Minor(s): Communication Studies 
+	Sheppard Quirke: Section 6, Major(s): Computer Science 
+	Susanne O'Lagen: Section 6, Major(s): Computer Science 
+	Bonni Hanrahan: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Che Sale: Section 6, Major(s): Computer Science 
+	Shayla Vorley: Section 6, Major(s): Statistics 
+	Jordon Pierrepont: Section 6, Major(s): Computer Science 
+Group 105:
+	Pamela O'Kuddyhy: Section 6, Major(s): Computer Science 
+	Saxon Robillart: Section 6, Major(s): Computer Science 
+	Karia Trudgeon: Section 6, Major(s): Physics 
+	Emlyn Gellert: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Kari Kneel: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Cicily Zohrer: Section 6, Major(s): Finance 
+	Friedrick Ellerington: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+Group 106:
+	Fayth Guwer: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Lissy Stedson: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Hilliard Sarah: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Barde Skeene: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Blinnie Spur: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Sabra Roder: Section 6, Major(s): Computer Science 
+	Martino Rean: Section 6, Major(s): Computer Science 
+Group 107:
+	Catlee Stile: Section 6, Major(s): Computer Science , Minor(s): Communication Studies 
+	Casie Normington: Section 6, Major(s): Computer Science 
+	Brigitte McKeady: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+	Jany Gianolini: Section 6, Major(s): Computer Science , Minor(s): Communication Studies Biology
+	Bella Birtonshaw: Section 6, Major(s): Electrical Engineering , Minor(s): Computer Science 
+	Waylan Williamson: Section 6, Major(s): Computer Science 
+	Heloise Sherme: Section 6, Major(s): Computer Science , Minor(s): Chemistry 
+Group 108:
+	Peyter Jarnell: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+	Corilla Peel: Section 6, Major(s): Computer Science 
+	Anneliese Ivanonko: Section 6, Major(s): Communication Studies , Minor(s): Biomedical Engineering 
+Group 109:
+	Kimbra Davidou: Section 12, Major(s): Mechanical Engineering 
+	Mylo Cokayne: Section 12, Major(s): Computer Science 
+	Baxie Dansey: Section 12, Major(s): Psychology 
+	Kristina Creighton: Section 12, Major(s): Economics 
+	Ashli De Pietri: Section 12, Major(s): Criminology 
+	Penny Coppins: Section 12, Major(s): Physics 
+	Penelope Deval: Section 12, Major(s): Sociology 
+Group 110:
+	Trista Crum: Section 12, Major(s): Health & Exercise Science 
+	Donn Danigel: Section 12, Major(s): Sociology 
+	Kristen Collyer: Section 12, Major(s): Communication Studies 
+	Benjie Dahmke: Section 12, Major(s): Computer Science 
+	Pearl Downs: Section 12, Major(s): Psychology 
+	Zelda Danielczyk: Section 12, Major(s): Mechanical Engineering 
+	Joly Center: Section 12, Major(s): Computer Science 
+Group 111:
+	Jolee Denzilow: Section 12, Major(s): Physics 
+	Concettina Crack: Section 12, Major(s): Nursing 
+	Nerty Cleiment: Section 12, Major(s): Communication Studies 
+	Ruthi Calloway: Section 12, Major(s): Mechanical Engineering 
+	Killy Castillou: Section 12, Major(s): Computer Science 
+	Olva Dillamore: Section 12, Major(s): Health & Exercise Science 
+	Randee Deguara: Section 12, Major(s): Women & Gender Studies 
+Group 112:
+	Berny Deppen: Section 12, Major(s): Mechanical Engineering 
+	Miner Damiral: Section 12, Major(s): Political Science 
+	Link Dalgarnowch: Section 12, Major(s): Computer Science 
+	Regine Ditch: Section 12, Major(s): Psychology 
+	Gianna Donohoe: Section 12, Major(s): Sociology 
+	Felicio Calven: Section 12, Major(s): Communication Studies 
+	Carissa Vardey: Section 12, Major(s): Chemistry 
+Group 113:
+	Karia Curless: Section 12, Major(s): Economics 
+	Woody Chomley: Section 12, Major(s): Computer Science 
+	Horatia Christmas: Section 12, Major(s): Psychology 
+	Riordan Cleminson: Section 12, Major(s): Mechanical Engineering 
+	Bentley Custed: Section 12, Major(s): Psychology 
+	Paulo Concklin: Section 12, Major(s): Women & Gender Studies 
+	Shari Descroix: Section 12, Major(s): Women & Gender Studies 
+Group 114:
+	Jack De Carteret: Section 12, Major(s): Nursing 
+	Gerianna Damrel: Section 12, Major(s): Computer Science 
+	Iosep Deeks: Section 12, Major(s): Computer Science 
+	Thorvald Casino: Section 12, Major(s): Computer Science 
+	Seumas Callinan: Section 12, Major(s): Computer Science 
+	Pennie Christoffersen: Section 12, Major(s): Physics 
+	Thomasin Cesaric: Section 12, Major(s): Physics 
+Group 115:
+	Alex Colcomb: Section 12, Major(s): Nursing 
+	Hamnet Cord: Section 12, Major(s): Criminology 
+	Lula Cohani: Section 12, Major(s): Health & Exercise Science 
+	Archy Domino: Section 12, Major(s): Women & Gender Studies 
+	Cornell Chad: Section 12, Major(s): Finance 
+	Loralee Dingate: Section 12, Major(s): Psychology 
+	Woodie Yabsley: Section 12, Major(s): Electrical Engineering 
+Group 116:
+	Cynthie Cobbled: Section 12, Major(s): Nursing 
+	Bank Dow: Section 12, Major(s): Psychology 
+	Row Crossgrove: Section 12, Major(s): Communication Studies 
+	Karleen Westgarth: Section 12, Major(s): Chemistry 
+	Frankie Darbey: Section 12, Major(s): Mechanical Engineering 
+	Shadow Cromar: Section 12, Major(s): Computer Science 
+Group 117:
+	Arthur Henken: Section 10, Major(s): Women & Gender Studies 
+	Conney Sulter: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Gottfried Haldene: Section 10, Major(s): Women & Gender Studies 
+	Wade Denny: Section 10, Major(s): African American Studies 
+	Berti Gabits: Section 10, Major(s): Accounting 
+	Lion Seers: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Alister Demko: Section 10, Major(s): Statistics , Minor(s): Psychology 
+Group 118:
+	Berny Sillick: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Vachel Pehrsson: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Berrie Vennings: Section 10, Major(s): Sociology , Minor(s): Political Science Philiosophy
+	Sharleen Lax: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Lisle Ormonde: Section 10, Major(s): Statistics 
+	Arturo Duke: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Masha Pigot: Section 10, Major(s): Psychology , Minor(s): Political Science 
+Group 119:
+	Giralda Cator: Section 10, Major(s): Statistics , Minor(s): Psychology 
+	Bunni Dreinan: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Emmalynn Greengrass: Section 10, Major(s): Women & Gender Studies 
+	Hermione Upcott: Section 10, Major(s): Finance 
+	Camala Spacie: Section 10, Major(s): Sociology , Minor(s): Political Science Philiosophy
+	Wilhelm Levane: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Patric Okroy: Section 10, Major(s): Statistics , Minor(s): Psychology 
+Group 120:
+	Chan Hollingshead: Section 10, Major(s): Women & Gender Studies 
+	Winnifred La Grange: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Grata Nazareth: Section 10, Major(s): Statistics , Minor(s): Psychology 
+	Tabbatha Unwins: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Arman Spon: Section 10, Major(s): Sociology , Minor(s): Political Science Philiosophy
+	Gearalt Pischof: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Nydia Giraudoux: Section 10, Major(s): African American Studies 
+Group 121:
+	Aurie Donan: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Haskell Edwick: Section 10, Major(s): Statistics 
+	Burnaby Ockland: Section 10, Major(s): Statistics , Minor(s): Psychology 
+	Eloisa Kime: Section 10, Major(s): Accounting , Minor(s): Psychology 
+	Hugo Reymers: Section 10, Major(s): Statistics 
+	Carolin Elnor: Section 10, Major(s): Statistics 
+	Dottie Dufaire: Section 10, Major(s): Statistics , Minor(s): Psychology 
+Group 122:
+	Tomi Woodroff: Section 10, Major(s): Statistics 
+	Maiga Simmers: Section 10, Major(s): Psychology , Minor(s): Political Science 
+	Kipper Paszak: Section 10, Major(s): Statistics 
+	Linda Dulieu: Section 10, Major(s): Statistics , Minor(s): Psychology 
+	Malvin Essame: Section 10, Major(s): Statistics 
+	Romola Wandrey: Section 10, Major(s): Biomedical Engineering 
+Group 123:
+	Risa Haestier: Section 13, Major(s): Computer Science 
+	Maxie Grigoli: Section 13, Major(s): Electrical Engineering 
+	Frasco Wheal: Section 13, Major(s): Physics 
+	Erek Grinyov: Section 13, Major(s): African American Studies 
+	Fitz Farren: Section 13, Major(s): Women & Gender Studies 
+	Ede Greswell: Section 13, Major(s): Computer Science 
+	Marilyn Fairnie: Section 13, Major(s): Sociology 
+Group 124:
+	Sampson Gammidge: Section 13, Major(s): Criminology 
+	Dinny Gebbe: Section 13, Major(s): Mechanical Engineering 
+	Frances Fermin: Section 13, Major(s): Physics 
+	Philippine Draper: Section 13, Major(s): Psychology 
+	Milissent Drake: Section 13, Major(s): Mechanical Engineering 
+	Julia Freiburger: Section 13, Major(s): Computer Science 
+	Mimi Dunkersley: Section 13, Major(s): Computer Science 
+Group 125:
+	Agatha Footer: Section 13, Major(s): Computer Science 
+	Terri Glavis: Section 13, Major(s): Statistics 
+	Benjy Dumbleton: Section 13, Major(s): Criminology 
+	Doretta Hanhard: Section 13, Major(s): Health & Exercise Science 
+	Agace Gage: Section 13, Major(s): Computer Science 
+	Gaven Drayson: Section 13, Major(s): Nursing 
+	Corey Eadmeades: Section 13, Major(s): Physics 
+Group 126:
+	Leoline Evill: Section 13, Major(s): Mechanical Engineering 
+	Baron Freckleton: Section 13, Major(s): Electrical Engineering 
+	Jolyn Gorwood: Section 13, Major(s): Economics 
+	Reena Flintoft: Section 13, Major(s): Mechanical Engineering 
+	Amara Farenden: Section 13, Major(s): Psychology 
+	Filberte Gofford: Section 13, Major(s): Statistics 
+	Angelia Falconer: Section 13, Major(s): Computer Science 
+Group 127:
+	Lorry Garretts: Section 13, Major(s): Criminology 
+	Ulla Gissing: Section 13, Major(s): Mechanical Engineering 
+	Deina Gravey: Section 13, Major(s): Mechanical Engineering 
+	Freedman Frean: Section 13, Major(s): Computer Science 
+	Liana Foxhall: Section 13, Major(s): Computer Science 
+	Beaufort Hablot: Section 13, Major(s): Electrical Engineering 
+	Chick Hamm: Section 13, Major(s): Computer Science 
+Group 128:
+	Vinni Vasechkin: Section 13, Major(s): Psychology 
+	Gregorio Earengey: Section 13, Major(s): Computer Science 
+	Gottfried Dumbleton: Section 13, Major(s): Computer Science 
+	Kayla Yanshin: Section 13, Major(s): Statistics 
+	Isac Ericsson: Section 13, Major(s): Nursing 
+	Thorpe Grason: Section 13, Major(s): Psychology 
+	Sydney Hakey: Section 13, Major(s): Mechanical Engineering 
+Group 129:
+	Reeba Elsom: Section 13, Major(s): Psychology 
+	Madella Font: Section 13, Major(s): Computer Science 
+	Basilio Eam: Section 13, Major(s): Psychology 
+	Terrie Gethouse: Section 13, Major(s): Computer Science 
+	Nolie Gailor: Section 13, Major(s): Computer Science 
+	Justin Guillou: Section 13, Major(s): Computer Science 
+	Melisande Gellert: Section 13, Major(s): Mechanical Engineering 
+Group 130:
+	Lorry Hankard: Section 13, Major(s): Statistics 
+	Ginnifer Hamnett: Section 13, Major(s): Statistics 
+	Annis Gerlack: Section 13, Major(s): Criminology 
+	Sallyann Durrant: Section 13, Major(s): Political Science 
+	Siegfried Haill: Section 13, Major(s): Statistics 
+	Alexandre Flucks: Section 13, Major(s): Mechanical Engineering 
+	Noam Grovier: Section 13, Major(s): Health & Exercise Science 
+Group 131:
+	Seymour Duffell: Section 13, Major(s): Sociology 
+	Danny Flounders: Section 13, Major(s): Women & Gender Studies 
+	Fayette Gerssam: Section 13, Major(s): Psychology 
+	Marylin Gooly: Section 13, Major(s): Health & Exercise Science 
+Group 132:
+	Martino Isley: Section 14, Major(s): Sociology 
+	Tara House: Section 14, Major(s): Psychology 
+	Bartlet Hillburn: Section 14, Major(s): Sociology 
+	Victor Kloisner: Section 14, Major(s): Computer Engineering 
+	Meridel Hovenden: Section 14, Major(s): Sociology 
+	Stormie Lettsom: Section 14, Major(s): Finance 
+	Ema Kingsnode: Section 14, Major(s): Mathematics 
+Group 133:
+	Lauryn Hilhouse: Section 14, Major(s): Sociology 
+	Myrna Klus: Section 14, Major(s): Finance 
+	Lurette Kelledy: Section 14, Major(s): Computer Science 
+	Tate Honeywood: Section 14, Major(s): Women & Gender Studies 
+	Odette Kenealy: Section 14, Major(s): Mechanical Engineering 
+	Sapphira Yoxen: Section 14, Major(s): Computer Science 
+	Davita Jaumet: Section 14, Major(s): Psychology 
+Group 134:
+	Elspeth Livard: Section 14, Major(s): Journalism 
+	Stephie Itzcovich: Section 14, Major(s): Sociology 
+	Corella Lightbourn: Section 14, Major(s): Mechanical Engineering 
+	Zonnya Lodewick: Section 14, Major(s): Interdisciplinary Studies 
+	Anni Huckabe: Section 14, Major(s): Computer Science 
+	Berti Jozefiak: Section 14, Major(s): Economics 
+	Cornie Liddon: Section 14, Major(s): Psychology 
+Group 135:
+	Elna Lavens: Section 14, Major(s): Sociology 
+	Debbi Lamprecht: Section 14, Major(s): Finance 
+	Diana Livingstone: Section 14, Major(s): Electrical Engineering 
+	Eddy Whipp: Section 14, Major(s): Finance 
+	Selene Kibblewhite: Section 14, Major(s): Finance 
+	Erny Kolodziejski: Section 14, Major(s): Computer Science 
+	Gradey Kimbury: Section 14, Major(s): Journalism 
+Group 136:
+	Brod Klosser: Section 14, Major(s): Physics 
+	Elvera Kneafsey: Section 14, Major(s): Psychology 
+	Gwynne Hanrott: Section 14, Major(s): Computer Science 
+	Dannie Innwood: Section 14, Major(s): Computer Science 
+	Marcille Lear: Section 14, Major(s): Psychology 
+	Galven Hildrew: Section 14, Major(s): Psychology 
+	Spike Kaiser: Section 14, Major(s): Journalism 
+Group 137:
+	Sheri Kissack: Section 14, Major(s): Mathematics 
+	Nancy Lapre: Section 14, Major(s): Finance 
+	Margeaux Ventum: Section 14, Major(s): Sociology 
+	Skipper Harper: Section 14, Major(s): Sociology 
+	Amalee Joris: Section 14, Major(s): Sociology 
+	Imogene Holehouse: Section 14, Major(s): Mathematics 
+	Ulysses Livard: Section 14, Major(s): Criminology 
+Group 138:
+	Corny Kingswoode: Section 14, Major(s): Mathematics 
+	Danni Jakubovits: Section 14, Major(s): Nursing 
+	Shandeigh Hinkes: Section 14, Major(s): Sociology 
+	Leland Lippitt: Section 14, Major(s): Physics 
+	Clay Jakubczyk: Section 14, Major(s): Finance 
+	Tito Hylden: Section 14, Major(s): Nursing 
+	Rochester Horrod: Section 14, Major(s): Interdisciplinary Studies 
+Group 139:
+	Lock Kealy: Section 14, Major(s): Nursing 
+	Berget Lenthall: Section 14, Major(s): Journalism 
+	Lavina Hedling: Section 14, Major(s): Mechanical Engineering 
+	Nalani Hollingsby: Section 14, Major(s): Mathematics 
+	Janean Izzat: Section 14, Major(s): Mechanical Engineering 
+	Rory Irnis: Section 14, Major(s): Psychology 
+	L;urette Honsch: Section 14, Major(s): Women & Gender Studies 
+Group 140:
+	Baldwin Jaggard: Section 14, Major(s): Computer Science 
+	Sherlock Hindenberger: Section 14, Major(s): Mathematics 
+	Robby Lewson: Section 14, Major(s): Journalism 
+Group 141:
+	Drud Whitwam: Section 15, Major(s): Computer Science 
+	Willie Mitcheson: Section 15, Major(s): Electrical Engineering 
+	Dione Medlicott: Section 15, Major(s): Accounting 
+	Inger McColm: Section 15, Major(s): Criminology 
+	Elwyn Murrock: Section 15, Major(s): Criminology 
+	Clive Meineking: Section 15, Major(s): Political Science 
+	Hermione Meates: Section 15, Major(s): Mathematics 
+Group 142:
+	Rani Madeley: Section 15, Major(s): Mechanical Engineering 
+	Auberon Lodwig: Section 15, Major(s): Mechanical Engineering 
+	Willem Verny: Section 15, Major(s): Chemistry 
+	Heriberto Oakley: Section 15, Major(s): Sociology 
+	Maribeth Matkovic: Section 15, Major(s): Mechanical Engineering 
+	Somerset McCumesky: Section 15, Major(s): Accounting 
+	Jasen Mates: Section 15, Major(s): Interdisciplinary Studies 
+Group 143:
+	Bernadene Lowbridge: Section 15, Major(s): Journalism 
+	Wolfie Milbourne: Section 15, Major(s): Sociology 
+	Torie Morrill: Section 15, Major(s): Health & Exercise Science 
+	Jarrad Mooney: Section 15, Major(s): Finance 
+	Padraig McFarland: Section 15, Major(s): Mathematics 
+	Neely McKillop: Section 15, Major(s): Health & Exercise Science 
+	Lemar Mitie: Section 15, Major(s): Criminology 
+Group 144:
+	Pail Marusik: Section 15, Major(s): Women & Gender Studies 
+	Timotheus Moynham: Section 15, Major(s): Nursing 
+	Fonz Mattussevich: Section 15, Major(s): Accounting 
+	Wells MacFayden: Section 15, Major(s): Finance 
+	Ogden Nolton: Section 15, Major(s): Physics 
+	Alford Macro: Section 15, Major(s): Mathematics 
+	Sherye Niche: Section 15, Major(s): African American Studies 
+Group 145:
+	Luise Maior: Section 15, Major(s): Physics 
+	Cad Matz: Section 15, Major(s): Finance 
+	Samara Loveard: Section 15, Major(s): Journalism 
+	Neila Mishow: Section 15, Major(s): Criminology 
+	Bondy Noteyoung: Section 15, Major(s): Journalism 
+	Darrick McAlees: Section 15, Major(s): Sociology 
+	Wildon Lorimer: Section 15, Major(s): Finance 
+Group 146:
+	Beryle Marcussen: Section 15, Major(s): Journalism 
+	Estele Lubman: Section 15, Major(s): Journalism 
+	Walther McRobbie: Section 15, Major(s): Physics 
+	Tuesday Mower: Section 15, Major(s): Computer Engineering 
+	Alysa MacGahey: Section 15, Major(s): Physics 
+	Andrei Nalder: Section 15, Major(s): Chemistry 
+	Haskell Maylam: Section 15, Major(s): Electrical Engineering 
+Group 147:
+	Matty Yukhnini: Section 15, Major(s): Sociology 
+	Tomasine Megarrell: Section 15, Major(s): Accounting 
+	Gerome Menendes: Section 15, Major(s): Sociology 
+	Egbert Meaney: Section 15, Major(s): Mathematics 
+	Tersina McGurn: Section 15, Major(s): Computer Science 
+	Nerita McLauchlin: Section 15, Major(s): Electrical Engineering 
+	Gabbie McGuire: Section 15, Major(s): Physics 
+Group 148:
+	Kellie Matteau: Section 15, Major(s): Computer Science 
+	Chance Lorenzin: Section 15, Major(s): Computer Engineering 
+	Artur MacAndreis: Section 15, Major(s): Computer Science 
+	Trenton Margerrison: Section 15, Major(s): Criminology 
+	Gianina McKitterick: Section 15, Major(s): African American Studies 
