@@ -10,4 +10,4 @@ Instructions
 3. Follow the labeled instructions!
 
 Bugs:
-* Groups may sometimes include a group of 1
+* Groups may sometimes include a group of fewer than specified students when there are no more students to pull from in a section.
