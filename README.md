@@ -9,5 +9,5 @@ Instructions
 2. Run the main.rb file located in the src folder in the repository.
 3. Follow the labeled instructions!
 
-Bugs:
+Bugs/Limitations:
 * Groups may sometimes include a group of fewer than specified students when there are no more students to pull from in a section.
