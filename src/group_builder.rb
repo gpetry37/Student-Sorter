@@ -8,10 +8,10 @@ def constraints(csv)
   # Group number specification
   group_no = 0
   loop do 
-    puts "How many groups would you like to have?"
+    puts "How many students would you like to have in each group?"
     group_no = gets.to_i
     unless group_no == 0
-      puts "You selected #{group_no} groups."
+      puts "You selected #{group_no} students per group."
       break
     else
       puts "Invalid response. Please try again."
@@ -39,13 +39,14 @@ def constraints(csv)
       puts "Invalid response. Please try again!"
     end
   end
- 
   return build_group(csv, group_no, mm_sel)
 end
 
+# Builds out group structures based on the input provided
 def build_group(csv, group_no, mm_sel)
   groups = Array.new
   case mm_sel
+  # When similar majors are grouped together
   when 1
     csv.each do |_key, value|
       section = value.shuffle()
@@ -54,23 +55,31 @@ def build_group(csv, group_no, mm_sel)
         searching = true
         i = 0
         section.each do |student| 
-          if student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major2 == group[0].major1 and searching
-            group.push(section.delete_at(i))
+          if student.major2 == nil
+            if student.major1 == group[0].major1 or student.major1 == group[0].major2 and searching
+              group.push(section.delete_at(i))
+            end
+          else
+            if student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major1 == group[0].major2 and searching
+              group.push(section.delete_at(i))
+            end
           end
           if group.length == group_no
             searching = false
           end
+          i += 1
         end
-        i = 1
-        while i < group_no
+        j = 1
+        while j < group_no
           if group.length < group_no and !section.empty?
             group.push section.pop if !section[0].nil?
           end
-          i += 1
+          j += 1
         end
         groups.push group
       end
     end
+  # When different majors are grouped together
   when 2
     csv.each do |_key, value|
       section = value.shuffle()
@@ -79,24 +88,31 @@ def build_group(csv, group_no, mm_sel)
         searching = true
         i = 0
         section.each do |student|
-          unless student.major1 == group[0].major1 or student.major2 == group[0].major2 or student.major2 == group[0].major1 or student.major2 == group[0].major1 and searching
-            group.push(section.delete_at(i))
+          if student.major2 == nil
+            if student.major1 != group[0].major1 or (student.major1 != group[0].major2 and group[0].major2 != nil) and searching
+              group.push(section.delete_at(i))
+            end
+          else
+            if student.major1 != group[0].major1 or student.major2 != group[0].major2 or student.major2 != group[0].major1 or student.major1 != group[0].major2 and searching
+              group.push(section.delete_at(i))
+            end
           end
           if group.length == group_no
             searching = false
           end
           i += 1
         end
-        i = 1
-        while i < group_no
+        j = 1
+        while j < group_no
           if group.length < group_no and !section.empty?
             group.push section.pop if !section[0].nil?
           end
-          i += 1
+          j += 1
         end
         groups.push group
       end
     end
+  # When majors do not matter for grouping
   when 3
     csv.each do |_key, value|
       section = value.shuffle()

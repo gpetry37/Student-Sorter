@@ -6,18 +6,20 @@
 # Decision tree for deciding what information to modify, if any
 def q_modify(csv)
   loop do
-    puts "Would you like to modify information in the current table? (y/n)"
+    puts "Would you like to view or modify information in the current table? (y/n)"
     edit = gets.strip
 
     if edit == "Y" or edit == "y"
-      puts "Would you like to add a new student, remove a student or edit an existing student? (a/d/e)"
+      puts "Would you like to add a new student, remove a student, edit an existing student or view the current table? (a/r/e/v)"
       action = gets.strip
       if action == "A" or action == "a"
         csv = add_csv(csv)
-      elsif action == "D" or action == "d"
+      elsif action == "R" or action == "r"
         csv = del_csv(csv)
       elsif action == "E" or action == "e"
         csv = edit_csv(csv)
+      elsif action == "V" or action == "v"
+        print_csv(csv)
       else
         puts "Not a valid response! Please try again."
       end
@@ -83,6 +85,7 @@ end
 # Decision trees for deleting a student
 def del_csv(csv)
   stu_section = ""
+  print_csv(csv)
   loop do
     puts "Please enter the section that the student to be modified is currently in."
     stu_section = gets.strip
@@ -135,6 +138,7 @@ end
 # Decision trees for editing current students
 def edit_csv(csv)
   stu_section = ""
+  print_csv(csv)
   loop do
     puts "Please enter the section that the student to be modified is currently in."
     stu_section = gets.strip
@@ -240,4 +244,19 @@ def edit_csv(csv)
       puts "Not a valid response. Please try again."
     end
   end
+end
+
+# Creates a printout of the csv for viewing
+def print_csv(csv)
+  csv.each do |_key, value|
+    value.each do |student|
+      print "\t#{student.fname} #{student.lname} - Email: #{student.email}, Section #{student.section}, Major(s): #{student.major1} #{student.major2}"
+      if student.minor1.nil?
+        puts ""
+      else
+        puts ", Minor(s): #{student.minor1} #{student.minor2}"
+      end
+    end
+  end
+  puts ""
 end

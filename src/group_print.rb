@@ -3,12 +3,13 @@
 # Gordon Petry
 # Assignment 1
 
+# List out the groups for the user to see
 def list_groups(groups)
   i = 1
   groups.each do |array|
     puts "Group #{i}:"
     array.each do |student|
-      print "\t#{student.fname} #{student.lname}: Section #{student.section}, Major(s): #{student.major1} #{student.major2}"
+      print "\t#{student.fname} #{student.lname} - Email: #{student.email}, Section #{student.section}, Major(s): #{student.major1} #{student.major2}"
       if student.minor1.nil?
         puts ""
       else
@@ -20,6 +21,7 @@ def list_groups(groups)
   return groups
 end
 
+# Writes groups to a file in the same format they are listed.
 def write_to_file(groups)
   loop do
     puts "Would you like to write the groups to a file? (y/n)"
@@ -42,7 +44,7 @@ def write_to_file(groups)
   groups.each do |array|
     file << "Group #{i}:\n"
     array.each do |student|
-      file << "\t#{student.fname} #{student.lname}: Section #{student.section}, Major(s): #{student.major1} #{student.major2}"
+      file << "\t#{student.fname} #{student.lname} - Email: #{student.email}, Section #{student.section}, Major(s): #{student.major1} #{student.major2}"
       if student.minor1.nil?
         file << "\n"
       else
